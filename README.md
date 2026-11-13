@@ -1,1 +1,1 @@
-# global-threat-desk.
+# global-threat-desk
